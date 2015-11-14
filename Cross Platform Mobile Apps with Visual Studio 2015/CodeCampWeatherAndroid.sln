@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCampWeatherAndroid", "CodeCampWeatherAndroid\CodeCampWeatherAndroid.csproj", "{31B8FEAE-3F4B-466F-B027-F85E478A003C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCampWeatherWP", "CodeCampWeatherWP\CodeCampWeatherWP.csproj", "{E1522571-A490-4BB4-89B2-59EA25E7C9F3}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CodeCampWeather", "CodeCampWeather\CodeCampWeather.shproj", "{1A913494-CB9D-4A5F-98C3-5178137E71A4}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CodeCampWeather\CodeCampWeather.projitems*{1a913494-cb9d-4a5f-98c3-5178137e71a4}*SharedItemsImports = 13
+		CodeCampWeather\CodeCampWeather.projitems*{31b8feae-3f4b-466f-b027-f85e478a003c}*SharedItemsImports = 4
+		CodeCampWeather\CodeCampWeather.projitems*{e1522571-a490-4bb4-89b2-59ea25e7c9f3}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|ARM.Build.0 = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|ARM.Deploy.0 = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|x86.Build.0 = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|ARM.Build.0 = Release|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|ARM.Deploy.0 = Release|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|x86.ActiveCfg = Release|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|x86.Build.0 = Release|Any CPU
+		{31B8FEAE-3F4B-466F-B027-F85E478A003C}.Release|x86.Deploy.0 = Release|Any CPU
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|ARM.Build.0 = Debug|ARM
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|x86.ActiveCfg = Debug|x86
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|x86.Build.0 = Debug|x86
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Debug|x86.Deploy.0 = Debug|x86
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|ARM.ActiveCfg = Release|ARM
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|ARM.Build.0 = Release|ARM
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|ARM.Deploy.0 = Release|ARM
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|x86.ActiveCfg = Release|x86
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|x86.Build.0 = Release|x86
+		{E1522571-A490-4BB4-89B2-59EA25E7C9F3}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

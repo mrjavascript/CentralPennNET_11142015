@@ -1,0 +1,14 @@
+<h2>Game List</h2>
+
+<ul>
+  {{#each games as |game|}}
+      <li>{{game}}</li>
+  {{/each}}
+</ul>
+
+<h3>Add Game</h3>
+{{input value=gameName}}
+<button {{action "addGame"}}>Add Game</button>
+
+<h3>Save Changes</h3>
+<button {{action "saveChanges"}}>Save Changes</button>
